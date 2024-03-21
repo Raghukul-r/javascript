@@ -9,7 +9,7 @@ console.log(mySet);
 mySet.delete(4);
 console.log(mySet);
 
-console.log(mySet.has(5)); // has() return true or false
+console.log(mySet.has(5)); // has() return true or false 
 
 // console.log(mySet.clear());  // clear set values
 
